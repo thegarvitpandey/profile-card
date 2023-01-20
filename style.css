@@ -38,7 +38,7 @@
     border-radius: 50%;
 }
 
-.card #webimg{
+.card .webimg{
     width: 100px;
     border-radius: 20%;
 }
