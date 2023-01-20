@@ -34,8 +34,8 @@
 }
 
 .card img{
-    width: 240px;
-    border-radius: 50%;
+    width: 100px;
+    border-radius: 30%;
 }
 .card h1{
     color: #fff;
@@ -49,8 +49,8 @@
     max-width: 330px;
 }
 .card .links img{
-    width: 20px;
-    border-radius: 40%;
+    width: 40px;
+    border-radius: 80%;
     margin: 10px 5px;
     transition: backgorund 0.5s;
 }
