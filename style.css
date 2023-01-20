@@ -49,8 +49,8 @@
     max-width: 330px;
 }
 .card .links img{
-    width: 40px;
-    border-radius: 50%;
+    width: 10px;
+    border-radius: 80%;
     margin: 10px 5px;
     transition: backgorund 0.5s;
 }
