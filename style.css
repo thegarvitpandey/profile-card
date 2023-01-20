@@ -38,9 +38,10 @@
     border-radius: 50%;
 }
 
-.card .webimg{
+.card .webimg img{
     width: 100px;
     border-radius: 20%;
+    margin: 10px 5px;
 }
 .card h1{
     color: #fff;
